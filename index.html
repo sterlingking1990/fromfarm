@@ -1,0 +1,38 @@
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>fromfarm - eat freshness</title>
+    <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
+    <link rel="stylesheet" href="./css/materialize.min.css">
+</head>
+<body>
+
+    <nav class="nav-wrapper green lighten-3">
+        <div class="container">
+            <a href="" class="brand-logo">fromfarm</a>
+            <a href="" class="sidenav-trigger" data-target="mobile-links"><i class="material-icons">menu</i></a>
+            <ul class="right hide-on-med-and-down">
+                <li><a href="">enter farm</a></li>
+                <li><a href="">about</a></li>
+                <li><a href="">gallery/news</a></li>
+            </ul>
+        </div>
+    </nav>
+    <ul class="sidenav" id="mobile-links">
+        <li><a href="">enter farm</a></li>
+        <li><a href="">about</a></li>
+        <li><a href="">gallery/news</a></li>
+    </ul>
+    
+    <script src="https://code.jquery.com/jquery-3.3.1.min.js"></script>
+    <script src="./js/materialize.min.js"></script>
+    <script>
+        $(document).ready(function(){
+            $('.sidenav').sidenav();
+        })
+    
+    </script>
+</body>
+</html>

@@ -1,0 +1,35 @@
+fromfarm brings the freshness of farm produce closer to people who needs it at any time
+eat fresh
+
+UserRoles
+1. enter farm
+2. about fromfarm
+3. gallery/news
+4. buy farm produce (available on sign in)
+5. sell farm produce (available on sign in)
+
+
+4. Role
+   1. choose to view more info about the produce to buy from a 3 column display of farm produce
+   2. decide to buy 
+   3. return to display of produce
+   3. search farm by name of produce, category of produce, farm name, farmer
+
+4.2 Role
+
+   1. fill in a blank note of what you want
+   2. send note to admin
+   3. recieve notification with a pay button
+
+4.2.3 Role
+  
+   1. pay and recieve delivery of farm produce
+
+5. Role
+   1. upload details about the produce you want to sell (farm name, produce type, category, note, image)
+   2. send for approval by admin
+
+
+
+
+
